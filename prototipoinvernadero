@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>hivernadero</title>
+
+	</head>
+	<style>
+		*{
+			margin: 0;
+			padding:0;
+		}
+		html{
+			
+			background-color: black
+		}
+		body{
+			
+			margin: auto;
+			width: 800px;
+			height: 950px;
+			background-color: darkseagreen;
+		}
+		header{
+			width: 800px;
+			height: 100px;
+			background-image: url(../../img/inv1.jpg);
+			background-size: 800px 100px;
+			
+		}
+		nav{
+			width: 800;
+			height: 50;
+			background-color: purple;
+		}
+		main {
+			width: 800px;
+			height: 750px;
+			background-color: yellowgreen
+		}
+		footer
+		{
+			width: 800px;
+			height: 100px;
+			background-color: saddlebrown
+			
+		}
+		
+		aside#izquierdo{
+			width: 200px;
+			height: 750px;
+			float: left;
+			background-color: aqua
+			
+		}
+		section{
+			width: 200px;
+			height: 30px;
+			text-align: center;
+			float: left;
+			background-color: blueviolet;
+			
+		}
+		section#central{
+			
+			width: 600px;
+			height: 750px;
+			background-color: darkcyan;
+		}
+		
+		
+	</style>
+<body>
+
+<header>
+<style>
+	h1{		
+		text-align: center;
+	}
+	</style>
+	<h1>
+	<font face="impact">TU</font>
+	<font face="verdana"; size="+3">ivernadero</font>
+		
+	</h1>
+</header>
+<nav>
+	<section>plantas</section>
+	<section>herramientas</section>
+	<section>nuestra seleccion</section>
+	<section>conocenos</section>
+</nav>
+<main>
+	<aside id="izquierdo">
+	<img src="../../img/planta1.jpg" width= 200px height=183px > 
+	<img src="../../img/planta2.jfif" width= 200px; height=183px>
+	<img src="../../img/planta3.jpg" width= 200px; height=183px>
+	<img src="../../img/planta4.jpg" width= 200px; height=183px>
+	</aside>
+	<section id="central">
+		<br>
+		<p><font face="strong"><u>GERMINAR:</u></font>
+		<BR>
+		Para lograr esto, toda nueva planta requiere de elementos básicos para su desarrollo: temperatura, agua, dióxido de carbono y sales minerales. El ejemplo más común de germinación es el brote de un semillero a partir de una semilla de una planta floral o angiosperma.
+		</p>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<p><font face="strong"><u>PLANTAS DE INTERIOR:</u></font>
+		<br>
+			¡tú, que tanto la mimas!-. No se lo tengas en cuenta; la vida de una planta dentro de casa casi nunca es fácil. Las condiciones en tu hogar serán siempre las más confortables para ti, pero no tienen por qué obedecer a las necesidades de tus plantas.
+			maneja la "FALTA DE AGUA", "EXCESO DE AGUA", "FALTA DE HUMEDAD AMBIENTAL", "TEMPERATURA ADECUADA", "CAMBIO DE MACETA", "ABONAR"
+		</p>
+	</section>
+	
+</main>
+
+<footer>
+</footer>
+</body>
+</html>
